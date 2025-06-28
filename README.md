@@ -6,10 +6,26 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kingsley-iwuchukwu-b924b5174/">LinkedIn</a> • 
-  <a href="mailto:kingsleyiwuchukwu0@gmail.com">Email</a> • 
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+  <a href="https://www.linkedin.com/in/kingsley-iwuchukwu-b924b5174/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/kizzocraft">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="mailto:kingsleyiwuchukwu0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://medium.com/@YOUR_MEDIUM_HANDLE">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://codepen.io/kizzocraft">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
+
 
 ---
 
